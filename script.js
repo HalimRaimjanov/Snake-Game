@@ -1,9 +1,8 @@
 /*jslint browser: true*/
 /*global $, jQuery, alert*/
-
 var gameBoardSize = 40;
 var gamePoints = 0;
-var gameSpeed = 100;
+var gameSpeed = 200;
 
 $(document).ready(function () {
     console.log("Ready Player One!");
